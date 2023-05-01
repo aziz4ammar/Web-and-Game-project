@@ -1,7 +1,8 @@
+
 .App {
   text-align: center;
+  background-color: #37393d;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -27,6 +28,243 @@
 .App-link {
   color: #61dafb;
 }
+.big{
+  display: flex;
+  flex-direction: column;
+}
+.img{
+  border: 10px solid black;
+}
+.cni{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 700px;
+  margin-top: -37%;
+  margin-bottom: 80px;
+  align-items: first baseline;
+}
+.o{
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-left: 120px;
+}
+.aqw{
+  position: absolute;
+  left: 680px;
+  top: 1200px;
+}
+.j{
+  display: flex;
+  margin-left: 650px;
+  margin-top: 110px;
+}
+.cnii{
+  display: flex;
+  margin-left: 460px;
+  margin-top: -250px;
+}
+.but{
+  width: 90px;
+  border-radius: 5px;
+  border: #21C08F ;
+  color: #21C08F;
+  border: solid 2px;
+  position: absolute;
+  top: 1350px;
+  left: 700px;
+}
+.but:hover{
+  border: #282c34 solid 2px;
+  background-color: #21C08F;
+  color: #ffffff;
+}
+.qqq{
+  background-color:#282c34;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 150px;
+  border: #21C08F solid 10px ;
+}
+.ha{
+  margin-top: 100px;
+  background-color: #282c34;
+  color: #21C08F;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.m{
+  width: 1000px;
+}
+.fa{
+  background-color:#ffffff;
+  border: 6px solid #21C08F;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-around;
+  height: 500px;
+}
+.base{
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+.aziz{
+  width: 800px;
+}
+.jiji{
+  width: 790px;
+}
+.maz{
+  display: flex;
+  margin-top: -607px;
+  margin-left: -225px;
+}
+.maj{
+  display: flex;
+  margin-top: -795px;
+  margin-left: 506px;
+}
+.ahh{
+  display: flex;height: 20px;width: 180px;
+  position: absolute;
+  bottom: 100px;
+  left: 350px;
+  color: #ffffff;
+  text-decoration:underline 3px #21C08F;
+}
+.ah{
+  display: flex;
+  position: absolute;
+  bottom: 90px;
+  left: 1100px;
+  color: #ffffff;
+  text-decoration:underline 3px #21C08F;
+}
+.rj{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: first baseline;
+  top: 700px;
+  right: 1000px;
+  font-size: 25px;
+  color: #21C08F;
+  text-decoration: overline white;
+}
+.ra{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: first baseline;
+  position: absolute;
+  top: 700px;
+  left: 1100px;
+  font-size: 25px;
+  color: #21C08F;
+  text-decoration: overline white;
+}
+.yy{
+  width: 100px;
+}
+.icon{
+  display: flex;
+  position: absolute;
+  top: 800px;
+  right:1085px;
+  background-color: white;
+  border-radius: 70px;
+  height: 70px;
+  border: #21C08F solid 3px;
+  width: 100px;
+}
+.iconi{
+  background-color: white;
+  border-radius: 70px;
+  height: 70px;
+  border: #21C08F solid 3px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  right: 335px;
+  top: 800px;
+}
+.lala{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 800px;
+  background-color: #282c34;
+}
+.t{
+  margin-bottom: 100px;
+  margin-left: 20px;
+  margin-top: 50px;
+  margin-right: 20px;
+}
+#tt{
+  width: 800px;
+  position: absolute;
+  top: 200px;
+  right: 360px;
+  height: 880px;
+}
+.ea{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.bgt{
+  background-color: #21C08F;
+}
+.fuck{
+  width: 400px;
+  display: flex;
+  margin-left: 900px;
+}
+.x{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #21C08F;
+  background-color: #37393d;
+  height: 100px;
+  border:solid 4px #21C08F;
+  position: absolute;
+  right: 800px;
+  bottom:250px;
+}
+#rar{
+  color: #21C08F;
+  text-decoration: overline white;
+}
+#taf{
+  color: #ffffff;
+  text-decoration: overline #21C08F;
+}
+#hgs{
+  color: #282c34;
+  text-decoration: overline #21C08F;
+}
+.aqw{
+  color: #21C08F;
+  text-decoration: overline #37393d;
+}
+#lmd{
+  width: 300px;
+  position: absolute;
+  left: 300px;
+  top: 1000px;
+}
+
 
 @keyframes App-logo-spin {
   from {
